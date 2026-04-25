@@ -21,7 +21,7 @@ Know Weather Info is a responsive weather web application that provides real-tim
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript,React Js
 - **API:** Weather API (e.g., OpenWeatherMap or similar)  
 - **Deployment:** Netlify  
 
